@@ -7,6 +7,8 @@ Joel Greenblatt is one of the most successful investors in the world, he has der
 
 His formula gives a systematic approach to create a portfolio of bluechip companies, which have the potential for wealth-creation in the **long term**.
 
+For conclusion, you can jump to the end of the notebook, but it is highly advisable not to do this, as Warren Buffett says, "Risk comes from not knowing what you're doing".
+
 ## Why you should consider looking at the Magic Formula ?
 
 * Developed by one of the most successful investor/hegde-fund manager Joel Greenblatt(just Google him and you will know)
@@ -23,3 +25,5 @@ His formula gives a systematic approach to create a portfolio of bluechip compan
 * It only uses historical data to make decisions, it does not encorporate news and other factors that might influence a stock's price.
 * It is not guaranteed to outperform the market every single year, it might underperform and make you exit sooner than planned(making you loose out on long-term gains)
 * What happens if there is some internal issues going on in the company(Example - Poor management), it cannot filter those things when choosing stocks.
+
+I hope this helps you make better decisions for investing your hard-earned money, happy investing!
