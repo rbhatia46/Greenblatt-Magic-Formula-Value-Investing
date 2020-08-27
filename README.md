@@ -20,6 +20,7 @@ His formula gives a systematic approach to create a portfolio of bluechip compan
 * This is not expected to work on Finance/Insurance companies(since the calculations and their business functions and entirely different from what the formula uses)
 * This is only applicable to large-cap companies.
 * This is expected to work only for US Companies(I highly encourage you to study this for your own country's stocks and backtest the results to learn if it really works)
+* At the end of the day, this is stock market, and stock market investments are subject to Market risk.
 
 ## Some of the drawbacks of the magic formula
 * It only uses historical data to make decisions, it does not encorporate news and other factors that might influence a stock's price.
