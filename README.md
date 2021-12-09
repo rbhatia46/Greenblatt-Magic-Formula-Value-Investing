@@ -18,7 +18,7 @@ His formula gives a systematic approach to create a portfolio of bluechip compan
 ## Some Important things
 * This is expected to work only if you invest for long-term(5-20 years)
 * This is not expected to work on Finance/Insurance companies(since the calculations and their business functions and entirely different from what the formula uses)
-* This is only applicable to large-cap companies.
+* This is only applicable to large-cap(Market cap more than 10B$)/mega-cap(market cap more than 200B$) companies.
 * This is expected to work only for US Companies(I highly encourage you to study this for your own country's stocks and backtest the results to learn if it really works)
 * At the end of the day, this is stock market, and stock market investments are subject to Market risk.
 
